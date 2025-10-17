@@ -117,10 +117,6 @@ Classification Report:
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name]**
-Machine Learning Assignment — 2025
 
 ---
 
