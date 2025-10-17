@@ -133,9 +133,3 @@ Machine Learning Assignment — 2025
   * `AdaBoostClassifier`
 * Adjust hyperparameters for better performance.
 
-```
-
----
-
-Would you like me to include a **“Results”** section that automatically saves the accuracy and confusion matrix image (for submission)?
-```
