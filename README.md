@@ -1,8 +1,3 @@
-Perfect 👍 — here’s a **README.md** file you can include with your assignment.
-It clearly explains setup, dependencies, how to run, and what each part of your code does.
-
----
-
 ### 📘 **README.md**
 
 ````markdown
